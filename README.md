@@ -16,7 +16,8 @@ var getLocation =  function(address) {
 getLocation('Bangalore');
 
 
-OR 
+OR we can use this 
+
 var address = "Bangalore";
 var getLocation =  function(address) {
   var geocoder = new google.maps.Geocoder();
